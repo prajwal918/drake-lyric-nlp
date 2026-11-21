@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="480" viewBox="0 0 880 480" role="img" aria-label="Drake Discography Lexical Density">
+  <rect width="880" height="480" fill="#0B0B0D"/>
+  
+  <!-- Title & Subtitle -->
+  <text x="35" y="38" fill="#D4AF37" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700">DRAKE DISCOGRAPHY: LEXICAL DENSITY (MATTR-50) ACROSS ERAS</text>
+  <text x="35" y="58" fill="#C0CAF5" font-family="system-ui, sans-serif" font-size="12">2009–2026 Corpus | Welch t-test (Heartbreak vs Hype AFINN): p = 0.0000, Cohen's d = 11.32</text>
+  
+  <!-- Legend -->
+  <g transform="translate(560, 24)">
+    <circle cx="0" cy="10" r="5" fill="#7AA2F7"/>
+    <text x="10" y="14" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="11">Heartbreak R&amp;B</text>
+    <circle cx="115" cy="10" r="5" fill="#FF1493"/>
+    <text x="125" y="14" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="11">Hype Rap</text>
+    <circle cx="195" cy="10" r="5" fill="#D4AF37"/>
+    <text x="205" y="14" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="11">Hybrid</text>
+  </g>
+  
+  <!-- Grid Lines -->
+  <g opacity="0.15">
+    <line x1="70" y1="377.5" x2="840" y2="377.5" stroke="#7AA2F7" stroke-width="1"/><line x1="70" y1="292.5" x2="840" y2="292.5" stroke="#7AA2F7" stroke-width="1"/><line x1="70" y1="207.50000000000006" x2="840" y2="207.50000000000006" stroke="#7AA2F7" stroke-width="1"/><line x1="70" y1="122.49999999999997" x2="840" y2="122.49999999999997" stroke="#7AA2F7" stroke-width="1"/>
+  </g>
+
+  <!-- Trend Polyline -->
+  <polyline points="70.0,309.5 115.3,284.0 160.6,343.5 251.2,250.0 341.8,190.5 387.1,326.5 432.4,258.5 477.6,275.5 613.5,352.0 658.8,173.5 704.1,267.0 794.7,156.5 840.0,224.5" fill="none" stroke="#D4AF37" stroke-width="2.5" opacity="0.75"/>
+
+  <!-- Points and Labels -->
+  <circle cx="70.0" cy="309.5" r="6.8" fill="#7AA2F7" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="115.3" cy="284.0" r="8.2" fill="#D4AF37" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="160.6" cy="343.5" r="11.2" fill="#7AA2F7" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="251.2" cy="250.0" r="10.0" fill="#D4AF37" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="341.8" cy="190.5" r="9.8" fill="#FF1493" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="387.1" cy="326.5" r="11.7" fill="#7AA2F7" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="432.4" cy="258.5" r="11.3" fill="#D4AF37" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="477.6" cy="275.5" r="12.9" fill="#D4AF37" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="613.5" cy="352.0" r="12.0" fill="#7AA2F7" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="658.8" cy="173.5" r="10.8" fill="#FF1493" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="704.1" cy="267.0" r="12.6" fill="#D4AF37" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="794.7" cy="156.5" r="9.5" fill="#FF1493" opacity="0.9" stroke="#ffffff" stroke-width="1"/><circle cx="840.0" cy="224.5" r="10.2" fill="#D4AF37" opacity="0.9" stroke="#ffffff" stroke-width="1"/>
+  <text x="70.0" y="296.7" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">So Far Gone</text><text x="115.3" y="269.8" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Thank Me Later</text><text x="160.6" y="326.3" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Take Care</text><text x="251.2" y="234.0" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Nothing Was The Same</text><text x="341.8" y="174.7" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">If Youre Reading This</text><text x="387.1" y="308.8" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Views</text><text x="432.4" y="241.2" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">More Life</text><text x="477.6" y="256.6" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Scorpion</text><text x="613.5" y="334.0" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Certified Lover Boy</text><text x="658.8" y="156.7" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Her Loss</text><text x="704.1" y="248.4" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">For All the Dogs</text><text x="794.7" y="141.0" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">2025 Era Releases</text><text x="840.0" y="208.3" fill="#E6E8F0" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">2026 Studio Drops</text>
+
+  <!-- Axes -->
+  <line x1="70" y1="420" x2="840" y2="420" stroke="#6E7694" stroke-width="1.5"/>
+  <line x1="70" y1="80" x2="70" y2="420" stroke="#6E7694" stroke-width="1.5"/>
+
+  <!-- Y-Axis Labels -->
+  <text x="60" y="381.5" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="end">50%</text>
+  <text x="60" y="296.5" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="end">60%</text>
+  <text x="60" y="211.50000000000006" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="end">70%</text>
+  <text x="60" y="126.49999999999997" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="end">80%</text>
+
+  <!-- X-Axis Labels -->
+  <text x="115.29411764705883" y="440" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="middle">2010</text><text x="296.47058823529414" y="440" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="middle">2014</text><text x="477.6470588235294" y="440" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="middle">2018</text><text x="658.8235294117646" y="440" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="middle">2022</text><text x="840.0" y="440" fill="#6E7694" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="middle">2026</text>
+
+  <!-- Caption -->
+  <text x="35" y="462" fill="#6E7694" font-family="system-ui, sans-serif" font-size="10">Data: LRCLIB Open Lyrics API &amp; Wikipedia Metadata • R tidyverse / tidytext / svglite methodology</text>
+</svg>
